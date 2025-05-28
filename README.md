@@ -1,6 +1,7 @@
 Desenvolvimento de um Portal de Agendamento para uma Clínica Médica
 
 CONTEXTO
+
 Uma clínica médica em uma cidade de médio porte está enfrentando desafios para gerenciar os
 agendamentos de consultas médicas. Atualmente, os agendamentos são realizados apenas por
 telefone, o que frequentemente resulta em longas esperas para os pacientes, erros no registro de
@@ -17,6 +18,7 @@ definir a melhor tecnologia para construir o portal, garantindo que ele seja res
 boa estrutura de banco de dados e seja fácil de usar.
 
 DESAFIO
+
 Passo 1:
 O seu primeiro passo é a partir do entendimento do problema, criar um diagrama de classes que
 represente o sistema de consultas médicas. O sistema deve registrar informações sobre pacientes,
